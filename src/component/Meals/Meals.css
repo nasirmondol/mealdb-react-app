@@ -1,0 +1,9 @@
+.meals-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 25px;
+}
+.meals{
+    display: grid;
+    grid-template-columns:4fr 1fr;
+}

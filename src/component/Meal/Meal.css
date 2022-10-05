@@ -1,0 +1,24 @@
+.meal img{
+    padding: 10px;
+    height: 300px;
+    width: 400px;
+    border-radius: 3px;
+}
+.meal{
+    margin: 35px 30px;
+    padding: 10px;
+    border: 2px solid saddlebrown;
+    border-radius: 5px;
+    height: 580px;
+}
+.button{
+    background-color: aquamarine;
+    height: 30px;
+    border: 1px solid teal;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 3px;
+}
+.icon{
+    margin-left: 3px;
+}
